@@ -1,0 +1,16 @@
+.class{
+    background-color: #ffaec9;
+    font-family: 'Verdana','DejaVu Sans', sans-serif;
+}
+#one_id{
+    color: rgb(22, 22, 163);
+    font-size: 36px;
+}
+.class.cooler{
+    font-size: 24px;
+}
+#another_id{
+    background-color: rgb(121, 199, 121);
+    font-size: 24px;
+    font-weight: bold;
+}
